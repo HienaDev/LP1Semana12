@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyOfThisType", "HowMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheyCameBefore", "TheyCameBefore\TheyCameBefore.csproj", "{C2C81082-1100-428E-8871-EAD77EF1A07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenericClass", "MyGenericClass\MyGenericClass.csproj", "{CFFA8483-2E90-4952-B626-5356E733CB43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C2C81082-1100-428E-8871-EAD77EF1A07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C81082-1100-428E-8871-EAD77EF1A07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C81082-1100-428E-8871-EAD77EF1A07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFA8483-2E90-4952-B626-5356E733CB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFA8483-2E90-4952-B626-5356E733CB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFA8483-2E90-4952-B626-5356E733CB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFA8483-2E90-4952-B626-5356E733CB43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
