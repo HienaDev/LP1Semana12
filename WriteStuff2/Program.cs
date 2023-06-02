@@ -3,14 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-namespace WriteStuff1
+namespace WriteStuff2
 {
     class Program
     {
         static void Main(string[] args)
         {
 
-            Queue<string> texto = new Queue<string>();
+            StreamWriter sw = new StreamWriter(args[0]);
 
             string input = null;
 
@@ -19,10 +19,10 @@ namespace WriteStuff1
                 input = Console.ReadLine();
 
                 if (input != "")
-                    texto.Enqueue(input);
+                    sw.WriteLine(input);
             }
 
-            File.WriteAllLines(args[0], texto);
+            sw.Close();
 
         }
     }

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustLikeACollection", "Just
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteStuff1", "WriteStuff1\WriteStuff1.csproj", "{98A2825A-D846-4886-BA6C-E4CA19072BE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteStuff2", "WriteStuff2\WriteStuff2.csproj", "{DA3A89B3-7772-4AEA-9928-ED4EA43ED732}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{98A2825A-D846-4886-BA6C-E4CA19072BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A2825A-D846-4886-BA6C-E4CA19072BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A2825A-D846-4886-BA6C-E4CA19072BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3A89B3-7772-4AEA-9928-ED4EA43ED732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3A89B3-7772-4AEA-9928-ED4EA43ED732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3A89B3-7772-4AEA-9928-ED4EA43ED732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3A89B3-7772-4AEA-9928-ED4EA43ED732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
